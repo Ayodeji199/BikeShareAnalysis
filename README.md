@@ -80,6 +80,80 @@ The highest number of users fall within the age range 40-49 while the lowest num
 
 #### Month
 
+##### Service use per month
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/c07658c3-22e4-4228-a73a-4931465b8dd4)
+
+The highest use of the service was recorded in June while the lowest use of the service was recorded in January. This is likely connected to the weather and seasons of the year. Spring season is between March and June. This explains the progressive use from February to June.
+
+#### Week
+
+##### Service use per Weekday
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/a60d4b76-b127-4a4f-bed9-b726e6686b24)
+
+Peak service use was recorded on Wednesday and Thursday closely followed for the weeks under review. Further investigation is required to understand the high traffic on both days.
+
+#### Day
+
+##### Ride Order per hour
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/52756644-b605-4c11-bfa1-4296875ceb4f)
+
+#### Trip Stations
+
+##### Top 5 trip starts stations by Frequency
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/32959f2f-ac5d-42e1-97d2-c4c4ef8916a5)
+
+Central Park S & 6 Ave recorded the highest number of trips start when compared to other stations.
+
+##### Top 4 trip end stations by Frequency
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/989d5f4d-8843-4790-8310-f6b9a28d4036)
+
+E 17 St & Broadway and E 7 St & Avenue A both recorded the highest trip end points when compared to other stations.
+
+|START TO END TRIP STATIONS|FREQUENCY|
+|--------------------------|---------|
+|University Pl & E 14 St to Washington Pl & Broadway|2|
+|W 26 St & 8 Ave to W 38 St & 8 Ave|2|
+|W 20 St & 8 Ave to W 26 St & 8 Ave|2|
+|Pershing Square North to W 33 St & 7 Ave|2|
+|Rivington St & Chrystie St to W Broadway & Spring St|2|
+|York St & Jay St to Rivington St & Chrystie St|2|
+|Central Park S & 6 Ave to Central Park S & 6 Ave|2|
+|Bayard St & Baxter St to Bayard St & Baxter St|2|
+
+The 8 stations listed in the table above had two frequencies each. This was the highest trip frequency recorded.
+
+#### Average trip duration
+
+The average trip duration is 814.7 minutes. This can be used to compare across individual trips to identify possible traffic-congested areas. 
+
+![image](https://github.com/Ayodeji199/BikeShareAnalysis/assets/155935474/7a4fcca4-512a-46fd-8a9e-84617da9ff0d)
+
+Non-Subscribers had a higher trip duration when compared to subscribers
+
+### Recommendations
+
+-	Females should be targeted during advertisements as they have a higher retention rate. Fewer female use is also recorded compared to male counterparts.
+-	The spring season should be maximized as it is potentially the best time for the use of this service. Case studies have shown that warm and dry weather encourages bike-share use.
+-	More staff should be available to ensure smooth services during the peak period (June).
+-	Efforts should be put into converting non-subscribers to service subscribers. Adverts can focus on the health benefits and the reduction of pollution. This can serve as the needed nudge.
+-	The company should collect more data to aid the analysis of a wider range of values
+-	Advertisements can be placed at high-performing stations to encourage usage
+-	Bonuses and benefits can boost performance in poorly performing service stations.
+
+
+
+
+
+
+
+
+
+
 
 
 
