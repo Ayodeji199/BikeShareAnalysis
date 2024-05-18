@@ -6,7 +6,7 @@ I am a data analyst tasked with performing a detailed analysis of the data of th
 
 ### Data Sources
 
-The data was located in the company’s database and stored as a CSV file. This data is primary data collected by the company itself. This makes it highly reliable for this purpose.
+The data was located in the company’s database and stored as a CSV file. This data is a primary data collected by the company itself. This makes it highly reliable for this purpose.
 
 ### Data Processing
 
